@@ -58,6 +58,3 @@ scripts/
 - Python 3 for the two measurement scripts (`Pillow`)
 - Dear ImGui is fetched by the bootstrap script — nothing to vendor by hand
 
-## License
-
-Shared as-is by Palace Hub, free to use and modify. No warranty.
